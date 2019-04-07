@@ -1,0 +1,61 @@
+.brand a{
+	color:white;
+}
+.brand a:hover{
+	
+}
+.postac1{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+	border: 1px solid rgba(0,0,0,.125);
+	
+
+}
+
+.opis-postaci{
+    font-size: 20px;
+}
+.postac-zdjecie{
+    padding-left: 0;
+   text-align: center;
+}
+
+.col1{
+    padding:0;
+}
+
+.navbar{
+    color:white;
+    font-size:2.7em;
+  
+    margin-top:1%;
+}
+
+.navbar .brand{
+    transform: translateX(-50%);
+    left: 50%;
+    position: relative;
+    
+}
+.opis-postaci{
+    text-align: justify;
+    padding-top: 5%;
+    padding-right: 5%;
+}
+.wydarzenie{
+    text-align: center;
+}
+.card-text{
+    font-size: 1.3em;
+}
+.container-fluid{
+    margin-top: 1.5%;
+}
+.card-body a{
+	color: black;
+}
+.card-body a:hover{
+	text-decoration: none;
+	color:#9a0007;
+}
